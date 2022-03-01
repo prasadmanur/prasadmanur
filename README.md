@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prasadmanur
 - 👀 I’m interested in Coding,Reading,Trekking and Travelling
 - 🌱 I’m currently learning Front End Development (HTML,CSS,JS,React)
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Web3.0
 - 📫 How to reach me Twitter -- @prasaad_dev , Instagram--@the__nationalist
 
 <!---
